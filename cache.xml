@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-b6dcbfc76d9894e3bc96f90ced022010867062c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\classes-533a96db7e05f6bf9320d43c43bca3ecf37090a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\classes-078b511fbf6b305de22ac805f4b9759b985b3b0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\classes-df01e905fb5e73e38164e4e5cb0f72f7015b746d.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIKAS\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5b2f1d2b580e0406e72d102486ec7b72dde1322c.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\VIKAS\AndroidStudioProjects\BookQuotes\app\build\intermediates\pre-dexed\debug\classes-d1656c0bd6c3414dbd9e52005e7f71f4fb5b5810.jar" />
+    </item>
+
+</items>
