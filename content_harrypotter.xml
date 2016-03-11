@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_harrypotter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/harryp"
+    tools:context="com.example.vikas.bookquotes.Harrypotter">
+
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp1"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="philosopherstone"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp2"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="chambersecrets"
+           />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp3"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="prisonerazkaban" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp4"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="gobletfire"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp5"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="orderphoenix"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp6"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="halfbloodprince"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hp7"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:onClick="deathlyhallows"
+            />
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
