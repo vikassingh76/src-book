@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pstone">
+        <item>It does not do to dwell on dreams and forget to live</item>
+        <item>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends</item>
+        <item>To the well-organized mind, death is but the next great adventure</item>
+        <item>\"The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution\"</item>
+        <item>There are some things you can\'t share without ending up liking each other, and knocking a twelve foot mountain trol is one of them.</item>
+        <item>What happened down in the dungeons between you and Professor Quirell is a complete secret, so, naturally, the whole school knows.</item>
+        <item>I hope you\'re pleased with yourselves. We could all have been killed - or worse, expelled. Now if you don\'t mind, I\'m going to bed.</item>
+        <item>\"Ah,music,\" he said, wiping his eyes. \"A magic beyond all we do here!\"</item>
+        <item>There is no good and evil, there is only power and those too weak to seek it.</item>
+        <item>Swish and flick.</item>
+        <item>Alas!Earwax!</item>
+        <item>\"Don\'t play,\" said Hermione at once.
+                \n\"Say you\'re ill,\" said Ron.
+                \n\"Pretend to break your leg,\" Hermione suggested.
+                \n\"Really break your leg,\" said Ron.</item>
+        <item>I can teach you how to bottle fame, brew glory, even put a stopper on death.</item>
+        <item>You\'re a wizard, Harry.</item>
+    </string-array>
+
+    <string-array name="cosecrets">
+        <item>It is our choices,Harry,that show what we truly are, far more than our abilities.</item>
+        <item>Oh well....I\'d just been thinking, if you had died,you\'d have been welcome to share my toilet.</item>
+        <item>Of all the trees that we could\'ve hit, we had to get one that hits back.</item>
+        <item>I\'ll be in my bedroom,making no noise and pretending I\'m not there.</item>
+        <item>You will find that I will only truly have left this school when none here are loyal to me.</item>
+        <item>Lockhart\'ll sign anything if it stands still long enough.</item>
+        <item>What exactly is the function of a rubber duck?</item>
+        <item><i>Oh,Potter,you rotter,oh, what have you done,\n You\'re killing off students, you think it\'s good fun-</i></item>
+        <item>\"Famous Harry Potter,\" said Malfoy. \"Can\'t even go to a bookshop without making the front page\"</item>
+        <item>You will also find that help will always given at hogwarts to those who ask for it.</item>
+    </string-array>
+
+    <string-array name="poazkaban">
+        <item>I solemnly swear that i am up to no good.</item>
+        <item>I don\'t go looking for trouble. Trouble usually finds me.</item>
+        <item>Don\'t let the muggles get you down.</item>
+        <item>\"I dreamed that I was buying new shoes last night,\" said Ron. \"What d\'ya think that\'s gonna mean?\"\n
+            \"Probably that you\'re going to be eaten by a giant marshmallow or something,\" said Harry.</item>
+        <item>I want to commit the murder I was imprisoned for.</item>
+        <item>Are you insane? Of course I want to leave the Dursleys! Have you got a house?When can I move in?</item>
+        <item>Mischief Managed.</item>
+        <item>The consequences of our actions are always so complicated,so diverse,that predicting the future is a very difficult business indeed.</item>
+        <item>Turn to page three hundred and ninety-four.</item>
+        <item>\"I\'m very busy with schoolwork, of course.\"\n
+        \"How can she be?\" said Ron in horror. \"We\'re on vacation\"</item>
+        <item>\"That is the second time you have spoken out of turn,Miss Granger,\"
+        said Snape coolly. \"Five more points from Gryffindor for being an insufferable know-it-all.\"</item>
+    </string-array>
+
+    <string-array name="gofire">
+        <item>It matters not what someone is born, but what they grow to be.</item>
+        <item>Percy wouldn\'t notice a joke if it danced naked in front of him wearing one of Dobby\'s hats.</item>
+        <item>\"Don\'t talk to me.\"\n\"Why not?\"\n\"Because I want to fix that in my memory
+        for ever. Draco Malfoy, the amazing bouncing ferret...\"</item>
+        <item>Just because it\'s taken you three years to notice,Ron, doesn\'t mean no one else has spotted I\'m a girl!</item>
+        <item>Constant Vigilance!</item>
+        <item>I thought it sounded a bit like Percy singing...maybe you\'ve got to attack him while he\'s in the shower, Harry.</item>
+        <item>I sometimes find, and I am sure you know the feeling, that I simply have too many thoughts and memories crammed into my mind.</item>
+        <item>But Ron was staring at Hermione as though suddenly seeing her in a whole new light.\n\"Hermione, Neville\'s right-
+        you <i>are</i> a girl...\"\n\"Oh well spotted,\" she said acidly.</item>
+        <item>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</item>
+        <item>\"There you go Harry!\" Ron shouted over the noise.\"You weren\'t being thick after all-you were showing moral fiber!\"</item>
+
+    </string-array>
+
+    <string-array name="oophoenix">
+        <item>Just because you have the emotional range of a teaspoon doesn\'t mean we all have.</item>
+        <item>Wit beyond measure is man\'s greatest treasure</item>
+        <item>\"You\'re a prefect? Oh Ronnie! That\'s everyone in the family!\"\n
+        \"What are Fred and I? Next door neighbours?\"</item>
+        <item>You know, Minister, I disagree with Dumbledore on many counts...but you cannot deny he\'s got style...</item>
+        <item>Things we lose have a way of coming back to us in the end, if not always in the way we expect.</item>
+        <item>Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young.</item>
+        <item>Don\'t put your wand there, boy!...Better wizards than you have lost buttocks, you know! </item>
+        <item>\"You should write a book,\" Ron told Hermione as he cut up his potatoes, \n
+        \"translating mad things girls do so boys can understand them.\"</item>
+        <item>According to Madam Pomfrey, thoughts could leave deeper scars than almost anything else.</item>
+        <item>Don\'t worry, You\'re just as sane as I am.</item>
+    </string-array>
+    <string-array name="hbprince">
+        <item>It is the unknown we fear when we look upon death and darkness, nothing more.</item>
+        <item>Let us step into the night and pursue that flighty temptress, adventure.</item>
+        <item>Dumbledore says people find it far easier to forgive others for being wrong than for being right.</item>
+        <item>When you have seen as much of life as I have, you will not underestimate the power of obsessive love.</item>
+        <item>Killing is not so easy as the innocent believe.</item>
+        <item>Well, you seemed far too busy to call him a prat and I thought someone should.</item>
+        <item>Age is foolish and forgetful when it underestimates youth.</item>
+        <item>P.S. I enjoy acid pops.</item>
+        <item>Greatness inspires envy, envy engenders spite, spite spawns lies.</item>
+        <item>Killing rips the soul apart.</item>
+        <item>Because to confide a part of your soul to something that can think and move for itself is obviously a very risky business.</item>
+    </string-array>
+    <string-array name="dhallows">
+        <item>Of course it\'s happening inside your head, Harry, but why on earth should it mean that it is not real?</item>
+        <item>Do not pity the dead,Harry. Pity the living, and, above all those who live without love.</item>
+        <item>He can run faster than Severus Snape confronted with shampoo.</item>
+        <item>Not my daughter, you bitch!</item>
+        <item>Cinderella? Snow White? What\'s that? An illness?</item>
+        <item>Holey? You have the whole world of ear-related humour beforeyou, you go for holey?</item>
+        <item>The scar had not pained Harry for nineteen years. All was well.</item>
+        <item>We did it, we bashed them wee Potter\'s the one, and Voldy\'s gone moldy, so now let\'s have fun!</item>
+        <item>Here lies Dobby, a free elf.</item>
+        <item>\"After all this time?\"\n \"Always...\"</item>
+    </string-array>
+</resources>

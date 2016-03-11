@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="perks">
+        <item>We accept the love we think we deserve.</item>
+        <item>So, this is my life. And I want you to know that I am both happy and sad and I am still trying
+         to figure out how that could be.</item>
+        <item>hings change. And friends leave. Life doesn\'t stop for anybody.</item>
+        <item>And in that moment, I swear we were infinite.</item>
+        <item>I would die for you. But i won\'t live for you.</item>
+        <item>I am very interested and fascinated how everyone loves each other, but no one really likes each other.</item>
+        <item>It\'s strange because sometimes I read a book, and I think I am the people in the book.</item>
+        <item>Enjoy it. Because it\'s happening.</item>
+        <item>This moment will just be another story someday.</item>
+        <item>He\'s a wallflower.You see things. You keep quiet about them. And you understand.</item>
+        <item>We did not talk about anything heavy or light. We were just there together. And that was enough.</item>
+        <item>And I guess I realized at that moment that I really did love her. Because there was nothing to gain, and that didn\'t matter.</item>
+    </string-array>
+</resources>

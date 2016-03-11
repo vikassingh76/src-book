@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fellowship">
+        <item>Not all those who wander are lost.</item>
+        <item>All we have to decide is what to do with the time that is given us.</item>
+        <item>Faithless is he that says farewell when the road darkens.</item>
+        <item>Do not meddle in the affairs of wizards, for they are subtle and quick to anger.</item>
+        <item>Short cuts make long delays.</item>
+        <item>The wide world is all about you: you can fence yourselves in, but you cannot forever fence it out.</item>
+        <item>Many that live deserve death. And some that die deserve life. Can you give it to them?
+        Then do not be too eager to deal out death in judgement.</item>
+        <item>All that is gold does not glitter,\n Not all htose who wander are lost.</item>
+        <item>He that breaks a thing to find out what it is has left the path of wisdom.</item>
+        <item>For even the very wise cannot see all ends.</item>
+        <item>Fly you fools.
+        </item>
+        <item>Advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.</item>
+        <item>Don\'t adventures ever have an end? I suppose not. Someone else always has to carry on the story.</item>
+        <item>Handsome is as handsome does.</item>
+        <item>\"I will take the Ring\", he said, \"though I do not know the way.\"</item>
+        <item>For nothing is evil in the beginning.</item>
+    </string-array>
+    <string-array name="ttowers">
+        <item>There is some good in this world, and it\'s worth fighting for.</item>
+        <item>Fair speech may hide a foul heart.</item>
+        <item>I was talking aloud to myself. A habit of the old: they choose the wisest person present to speak to.</item>
+        <item>The wise speak only of what they know.</item>
+        <item>The treacherous are ever distrustful.</item>
+        <item>A red sun rises. Blood has been spilled this night.</item>
+        <item>Help means ruin and saving means slaying.</item>
+        <item>Praise from the praise-worthy is beyond all rewards.</item>
+        <item>Being a cheerful hobbit, he had not needed hope, as long as despair could be postponed.</item>
+        <item>I have spoken words of hope. But only of hope. Hope is not victory.</item>
+        <item>Faithful heart may have a froward tongue.</item>
+        <item>Dreamlike it was, and yet, no dream, for there was no waking.</item>
+        <item>Yet dawn is ever the hope of men</item>
+        <item>Every man has something too dear to trust to another.</item>
+        <item>I have more need of thought than of sleep.</item>
+    </string-array>
+    <string-array name="roking">
+        <item>I am glad you are here with me. Here at the end of all things, Sam.</item>
+        <item>In this hour, I do not believe that any darkness will endure.</item>
+        <item>Oft hope is born when all is forlorn.</item>
+        <item>The world is full enough of hurts and mischances without wars to multiply them.</item>
+        <item>It is useless to meet revenge with revenge; it will heal nothing.</item>
+        <item>And then her heart changed, or at least she understood it; and the winter passed, and the sun shone upon her.</item>
+        <item>His grief he will not forget; but it will not darken his heart, it will teach him wisdom.</item>
+        <item>The whole thing is quite hopeless, so it\'s no good worrying about tomorrow. It probably won\'t come.</item>
+        <item>\"Come Mr. Frodo!\', he cried. \'I can\'t carry it for you, but I can carry you.\"</item>
+        <item>End? No, the journey doesn\'t end here. Death is just another path. One that we all ust take.</item>
+    </string-array>
+</resources>

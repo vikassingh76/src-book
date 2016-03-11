@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Book Quotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">Choose a Book</string>
+    <string name="large_text">Choose a Book</string>
+    <string name="title_activity_harrypotter">Harrypotter</string>
+    <string name="title_activity_philosophersstone">Harry Potter and the Philosopher\'s Stone</string>
+    <string name="title_activity_chamberofsecrets">Harry Potter and the Chamber of Secrets</string>
+    <string name="title_activity_prisonerazkaban">Harry Potter and the Prisoner of Azkaban</string>
+    <string name="title_activity_gobletfire">Harry Potter and the Goblet of Fire</string>
+    <string name="title_activity_orderphoenix">Harry Potter and the Order of the Phoenix</string>
+    <string name="title_activity_halfbloodprince">Harry Potter and the Half- Blood Prince</string>
+    <string name="title_activity_deathlyhallows">Harry Potter and the Deathly Hallows</string>
+    <string name="title_activity_catcherrye">The Catcher in the Rye</string>
+    <string name="title_activity_lotr">lotr</string>
+    <string name="title_activity_lordoftherings">The Lord of the Rings</string>
+    <string name="title_activity_fellowshipofthering">The Fellowship of the Ring</string>
+    <string name="title_activity_thetwotowers">The Two Towers</string>
+    <string name="title_activity_returnoftheking">The Return of the King</string>
+    <string name="title_activity_lastmantower">Last Man in Tower</string>
+    <string name="title_activity_perksflower">The Perks of being a Wallflower</string>
+    <string name="title_activity_thewhitet">The White Tiger</string>
+
+</resources>
